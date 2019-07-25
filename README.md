@@ -2,7 +2,7 @@
 All code and examples are in Jupyter Notebook
 
 ## Modules
-#### 1. Python Using Pandas Review Course
+#### 1. Python Using Pandas Review Course 
 #### 2. Series
 #### 3. DataFrame I
 #### 4. DataFrame II

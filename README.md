@@ -6,5 +6,5 @@ All code and examples are in Jupyter Notebook
 #### 2. [Series](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Series.ipynb)
 #### 3. [DataFrame I](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrame%20%201.ipynb)
 #### 4. [DataFrame II](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20II.ipynb)
-#### 5. [DataFrame III]
+#### 5. [DataFrame III](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20III.ipynb)
 #### 6. Continue

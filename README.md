@@ -7,4 +7,5 @@ All code and examples are in Jupyter Notebook
 #### 3. [DataFrame I](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrame%20%201.ipynb)
 #### 4. [DataFrame II](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20II.ipynb)
 #### 5. [DataFrame III](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20III.ipynb)
-#### 6. [Working with Text Data]
+#### 6. [Working with Text Data](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Working%20with%20Text%20Data.ipynb)
+#### 7. [MultiIndex]

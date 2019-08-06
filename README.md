@@ -8,4 +8,5 @@ All code and examples are in Jupyter Notebook
 #### 4. [DataFrame II](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20II.ipynb)
 #### 5. [DataFrame III](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20III.ipynb)
 #### 6. [Working with Text Data](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Working%20with%20Text%20Data.ipynb)
-#### 7. [MultiIndex]
+#### 7. [MultiIndex](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/MultiIndex.ipynb)
+#### 8. [GroupBy]

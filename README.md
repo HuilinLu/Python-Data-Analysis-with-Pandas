@@ -9,4 +9,5 @@ All code and examples are in Jupyter Notebook
 #### 5. [DataFrame III](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/DataFrames%20III.ipynb)
 #### 6. [Working with Text Data](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Working%20with%20Text%20Data.ipynb)
 #### 7. [MultiIndex](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/MultiIndex.ipynb)
-#### 8. [GroupBy]
+#### 8. [GroupBy](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/GroupBy.ipynb)
+#### 9. [Merging, Joining, and Concatenating]

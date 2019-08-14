@@ -11,4 +11,6 @@ All code and examples are in Jupyter Notebook
 #### 7. [MultiIndex](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/MultiIndex.ipynb)
 #### 8. [GroupBy](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/GroupBy.ipynb)
 #### 9. [Merging, Joining, and Concatenating](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Merging%2C%20Joining%2C%20and%20Concatenating.ipynb)
-#### 10. [Working with Dates and Times]
+#### 10. [Working with Dates and Times](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Working%20with%20Dates%20and%20Times.ipynb)
+#### 11. [Panels]
+

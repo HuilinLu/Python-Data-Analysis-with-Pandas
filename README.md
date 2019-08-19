@@ -14,6 +14,7 @@ All code and examples are in Jupyter Notebook
 #### 10. [Working with Dates and Times](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Working%20with%20Dates%20and%20Times.ipynb)
 #### 11. [Panels](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Panels.ipynb)
 #### 12. [Input and Output](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Input%20and%20Output.ipynb)
-#### 13. [Visualization]
+#### 13. [Visualization](https://github.com/HuilinLu/Python-Data-Analysis-with-Pandas/blob/master/Visualization.ipynb)
+#### 14. [Options and Settings]
 
 
